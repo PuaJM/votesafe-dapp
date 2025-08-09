@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/votesafe-dapp/static/css/main.3df5ea7f.css",
+    "main.js": "/votesafe-dapp/static/js/main.d0ca0acf.js",
+    "static/js/453.bc41131d.chunk.js": "/votesafe-dapp/static/js/453.bc41131d.chunk.js",
+    "index.html": "/votesafe-dapp/index.html",
+    "main.3df5ea7f.css.map": "/votesafe-dapp/static/css/main.3df5ea7f.css.map",
+    "main.d0ca0acf.js.map": "/votesafe-dapp/static/js/main.d0ca0acf.js.map",
+    "453.bc41131d.chunk.js.map": "/votesafe-dapp/static/js/453.bc41131d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3df5ea7f.css",
+    "static/js/main.d0ca0acf.js"
+  ]
+}
